@@ -1,1 +1,10 @@
-/CRF++-0.58/*
+/CRF++-0.58
+/CRF-Chinese-Word-Segment
+/data
+crf_*
+libcrfpp.dll
+template
+*.txt
+/report_latex
+*.pickle
+*.data
